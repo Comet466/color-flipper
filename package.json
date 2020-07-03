@@ -1,0 +1,22 @@
+{
+  "name": "final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Comet466/color-flipper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Comet466/color-flipper/issues"
+  },
+  "homepage": "https://github.com/Comet466/color-flipper#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
